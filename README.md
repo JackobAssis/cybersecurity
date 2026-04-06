@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="SEU_PRINT_AQUI.png" width="700"/>
+</p>
 🛡️ Miniguia de Estudos com NotebookLM: Fundamentos de Cibersegurança
 📌 Contexto e Objetivos
 

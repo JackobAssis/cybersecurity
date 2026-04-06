@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="SEU_PRINT_AQUI.png" width="700"/>
-</p>
 # 🛡️ CyberSec Second Brain: Sistema de Aprendizado em Cibersegurança com IA
 
 ---

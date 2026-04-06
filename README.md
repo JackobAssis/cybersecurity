@@ -1,11 +1,8 @@
 # 🛡️ CyberSec Second Brain: Sistema de Aprendizado em Cibersegurança com IA
 
 
-<p align="center">
-  <img src=![Uploading Captura de tela 2026-04-06 201608.png…]()
-" width="700/>
-</p>
----
+
+<img width="2752" height="1536" alt="unnamed" src="https://github.com/user-attachments/assets/c5228e5e-28df-4103-9b10-556823723e0b" />
 
 ## 📌 Contexto e Objetivos
 

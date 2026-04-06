@@ -1,5 +1,9 @@
 # 🛡️ CyberSec Second Brain: Sistema de Aprendizado em Cibersegurança com IA
 
+
+<p align="center">
+  <img src="unnamed.png" width="700"/>
+</p>
 ---
 
 ## 📌 Contexto e Objetivos

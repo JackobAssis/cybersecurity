@@ -222,3 +222,7 @@ A abordagem adotada vai além da teoria, focando na análise, organização e ap
 ## 💡 Observação Final
 
 Este repositório faz parte do processo de evolução contínua na área de cibersegurança e será expandido com novos estudos, práticas e experimentações ao longo do tempo.
+
+
+<img width="4292" height="7736" alt="NotebookLM Mind Map" src="https://github.com/user-attachments/assets/1eac96a2-8404-4778-a349-d56ff68480c0" />
+

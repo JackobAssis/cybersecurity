@@ -2,7 +2,8 @@
 
 
 <p align="center">
-  <img src="unnamed.png" width="700"/>
+  <img src="![Uploading Captura de tela 2026-04-06 201608.png…]()
+" width="700"/>
 </p>
 ---
 
